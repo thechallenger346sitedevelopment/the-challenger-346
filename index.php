@@ -12,6 +12,7 @@
     top: 0px;
     left: 0px;
     width: 100%;
+    height: 20%;
     position: absolute;
     background:yellow;
     text-align: center;
@@ -22,7 +23,7 @@
     background-position: middle top;
     background-attachment: scroll;
     background-repeat: repeat-x;
-    top: 12.8%;
+    top: 14%;
     width: 100%;
     height: 25%;
     left: 0px;
@@ -73,7 +74,7 @@
  </head>
  <body>
   <div class="oof">
-   <h1>Welcome to THE CHALLNEGER 346  Webpage</h1>
+   <h1><img src="icon/logo.png" alt="anonymous" style="top:0px;float:left;width:5%;height:5%;">Welcome to THE CHALLNEGER 346  Webpage<img src="icon/logo.png" alt="anonymous" style="top:0px;float:right;width:5%;height:5%;"></h1>
   </div>
   <div class="heading-picture">
    <p>On this page you will see our discord and buttons to other pages and a description of our discord server that the bottom. Please go to the bottom of the page to the footer and read terms of service!</p>
@@ -89,7 +90,7 @@
    <button class="TOS">Terms of Service</button>
   </a>
  </footer>
- <audio style="width:0px;height:0px;" autoplay>
+ <audio style="width:0px;height:0px;" repeat="true" autoplay>
  <source src="music/music.mp3" type="audio/mpeg">
  <source src="music/music.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
