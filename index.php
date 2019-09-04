@@ -51,6 +51,23 @@
       color: yellow;
       border: none;
       }
+      .discord{
+       background: red;
+       top: 30%;
+       height: 45%;
+       width: 100%;
+      }
+      .discord1{
+       background: red;
+       top: 30%;
+       left: 0px;
+       height: 60%;
+       width: 100%;
+       position: absolute;
+       background:yellow;
+       text-align: center;
+       color: red;
+      }
   </style>
   <title>The Challenger 346</title>
  </head>
@@ -60,6 +77,11 @@
   </div>
   <div class="heading-picture">
    <p>On this page you will see our discord and buttons to other pages and a description of our discord server that the bottom. Please go to the bottom of the page to the footer and read terms of service!</p>
+  </div>
+  <div class="discord">
+   <div class="discord1">
+   <iframe src="https://discordapp.com/widget?id=528007140900732938&theme=dark" width="100%" height="100%" allowtransparency="true" frameborder="0"></iframe>
+   </div>
   </div>
  </body>
  <footer class="page-bottom">
