@@ -96,10 +96,7 @@
    <button class="TOS">Terms of Service</button>
   </a>
  </footer>
- <audio style="width:0px;height:0px;" repeat="true" autoplay>
- <source src="music/music.mp3" type="audio/mpeg">
- <source src="music/music.mp3" type="audio/mpeg">
- <source src="music/music.mp3" type="audio/mpeg">
+ <audio style="width:0px;height:0px;" loop autoplay>
  <source src="music/music.mp3" type="audio/mpeg">
  <source src="music/music.mp3" type="audio/mpeg">
 Your browser does not support the audio element.

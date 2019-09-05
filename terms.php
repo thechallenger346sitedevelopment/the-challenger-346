@@ -57,7 +57,7 @@
    <p>This site is meant to only report scammers. IF all the information that is given to this site is false and involves companies or even federal workers or federal companies that infomation will be passed on to those places. We record all data that you report including your IP(Internet Protocol) address. This IP will be sent to the correct people for them to further do what they want to do with it.</p>
   </div>
  </body>
- <audio style="width:0px;height:0px;" autoplay>
+ <audio style="width:0px;height:0px;" loop autoplay>
  <source src="music/music.mp3" type="audio/mpeg">
  <source src="music/music.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
