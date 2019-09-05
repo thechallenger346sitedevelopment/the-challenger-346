@@ -54,7 +54,7 @@
    <a href="index.php">
    <button>HOME</button>
   </a>
-   <p>This site is meant to only report scammers. IF all the information that is given to this site is false and involves companies or even federal workers or federal companies that infomation will be passed on to those places. We record all data that you report including your IP(Internet Protocol) address. This IP will be sent to the correct people for them to further do what they want to do with it.</p>
+   <p>This site is meant to only report scammers. IF all the information that is given to this site is false and involves companies or even federal workers or federal companies that information will be passed on to those places. We record all data that you report including your IP(Internet Protocol) address. This IP will be sent to the correct people for them to further do what they want to do with it.</p>
   </div>
  </body>
  <audio style="width:0px;height:0px;" loop autoplay>
