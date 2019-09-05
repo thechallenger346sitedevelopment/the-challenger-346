@@ -6,8 +6,8 @@
   <meta name="author" content="the challenger 346 team">
   <meta name="copyright" content="The Challenger 346 is a registered trademark of the challenger 346 youtube">
   <meta name="url" content="https://thechallenge346.tk">
-  <meta name="description" content="We flood scammers and call them all day so please report them here/">
-  <meta name="subject" content="What do we do?">
+  <meta name="description" content="This site is meant to only report scammers. IF all the information that is given to this site is false and involves companies or even federal workers or federal companies that infomation will be passed on to those places.">
+  <meta name="subject" content="Terms of Service">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
    body{
