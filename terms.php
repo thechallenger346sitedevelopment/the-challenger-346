@@ -2,6 +2,12 @@
 <html lang="en" dir="ltr">
  <head>
   <meta charset="utf-8">
+  <meta name="keywords" content="Scambaiting, the challenger 346 YouTube, Scambait, Scambaiter,the challenger 346, report a scam, report a scammer, how to report a scam">
+  <meta name="author" content="the challenger 346 team">
+  <meta name="copyright" content="The Challenger 346 is a registered trademark of the challenger 346 youtube">
+  <meta name="url" content="https://thechallenge346.tk">
+  <meta name="description" content="We flood scammers and call them all day so please report them here/">
+  <meta name="subject" content="What do we do?">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
    body{
@@ -22,9 +28,9 @@
     background-position: middle top;
     background-attachment: scroll;
     background-repeat: repeat-x;
-    top: 12.8%;
+    top: 11%;
     width: 100%;
-    height: 87.3%;
+    height: 89%;
     left: 0px;
     position: absolute;
     text-align: center;

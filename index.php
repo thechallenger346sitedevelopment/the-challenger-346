@@ -2,6 +2,12 @@
 <html lang="en" dir="ltr">
  <head>
   <meta charset="utf-8">
+  <meta name="keywords" content="Scambaiting, the challenger 346 YouTube, Scambait, Scambaiter,the challenger 346, report a scam, report a scammer, how to report a scam">
+  <meta name="author" content="the challenger 346 team">
+  <meta name="copyright" content="The Challenger 346 is a registered trademark of the challenger 346 youtube">
+  <meta name="url" content="https://thechallenge346.tk">
+  <meta name="description" content="We flood scammers and call them all day so please report them here/">
+  <meta name="subject" content="What do we do?">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
    body{
@@ -74,7 +80,7 @@
  </head>
  <body>
   <div class="oof">
-   <h1><img src="icon/logo.png" alt="anonymous" style="top:0px;float:left;width:5%;height:5%;">Welcome to THE CHALLNEGER 346  Webpage<img src="icon/logo.png" alt="anonymous" style="top:0px;float:right;width:5%;height:5%;"></h1>
+   <h1><img src="icon/logo.png" alt="anonymous" style="float:left;width:5%;height:5%;">Welcome to THE CHALLNEGER 346  Webpage<img src="icon/logo.png" alt="anonymous" style="float:right;width:5%;height:5%;"></h1>
   </div>
   <div class="heading-picture">
    <p>On this page you will see our discord and buttons to other pages and a description of our discord server that the bottom. Please go to the bottom of the page to the footer and read terms of service!</p>
@@ -91,6 +97,9 @@
   </a>
  </footer>
  <audio style="width:0px;height:0px;" repeat="true" autoplay>
+ <source src="music/music.mp3" type="audio/mpeg">
+ <source src="music/music.mp3" type="audio/mpeg">
+ <source src="music/music.mp3" type="audio/mpeg">
  <source src="music/music.mp3" type="audio/mpeg">
  <source src="music/music.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
