@@ -12,7 +12,6 @@
   <style>
    body{
     width: 100%;
-    height: 100%;
    }
    .oof{
     top: 0px;
@@ -25,17 +24,14 @@
     color: red;
    }
    .heading-picture{
-    background-image: url("heading-image.jpg");
-    background-position: middle top;
-    background-attachment: scroll;
-    background-repeat: repeat-x;
+    background-color: yellow;
     top: 14%;
     width: 100%;
-    height: 25%;
+    height: 10%;
     left: 0px;
     position: absolute;
     text-align: center;
-    color: white;
+    color: red;
     }
     .page-bottom{
      background: limegreen;
@@ -59,14 +55,13 @@
       border: none;
       }
       .discord{
-       background: red;
-       top: 30%;
+       background: yellow;
        height: 45%;
        width: 100%;
       }
       .discord1{
        background: red;
-       top: 30%;
+       bottom: 10%;
        left: 0px;
        height: 60%;
        width: 100%;
@@ -75,15 +70,52 @@
        text-align: center;
        color: red;
       }
+      .buttons{
+       width: 100%;
+       height: 10%;
+       background-color: blue;
+       position: absolute;
+       left: 0%;
+       top: 23%;
+      }
+      .discord-button{
+       top: 15%;
+       width: 10%;
+       height: 40%;
+       left: 45%;
+       position: absolute;
+       text-align: center;
+       background: red;
+       color: yellow;
+       border: none;
+      }
   </style>
   <title>The Challenger 346</title>
  </head>
+ <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5cf881ccb534676f32ad91e7/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
  <body>
   <div class="oof">
    <h1><img src="icon/logo.png" alt="anonymous" style="float:left;width:5%;height:5%;">Welcome to THE CHALLNEGER 346  Webpage<img src="icon/logo.png" alt="anonymous" style="float:right;width:5%;height:5%;"></h1>
   </div>
   <div class="heading-picture">
    <p>On this page you will see our discord and buttons to other pages and a description of our discord server that the bottom. Please go to the bottom of the page to the footer and read terms of service!</p>
+  </div>
+  <div class="buttons">
+   <a href="https://discord.gg/EAMgjte">
+   <button class="discord-button">Discord Server</button>
+  </a>
   </div>
   <div class="discord">
    <div class="discord1">
