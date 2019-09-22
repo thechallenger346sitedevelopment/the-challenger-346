@@ -80,9 +80,9 @@
       }
       .discord-button{
        top: 15%;
-       width: 10%;
+       width: 20%;
        height: 40%;
-       left: 45%;
+       left: 40%;
        position: absolute;
        text-align: center;
        background: red;
@@ -107,13 +107,13 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
  <body>
   <div class="oof">
-   <h1><img src="icon/logo.png" alt="anonymous" style="float:left;width:5%;height:5%;">Welcome to THE CHALLNEGER 346  Webpage<img src="icon/logo.png" alt="anonymous" style="float:right;width:5%;height:5%;"></h1>
+   <h1>Welcome to THE CHALLNEGER 346</h1>
   </div>
   <div class="heading-picture">
    <p>On this page you will see our discord and buttons to other pages and a description of our discord server that the bottom. Please go to the bottom of the page to the footer and read terms of service!</p>
   </div>
   <div class="buttons">
-   <a href="https://discord.gg/EAMgjte">
+   <a href="https://discord.gg/EAMgjte" target="_blank">
    <button class="discord-button">Discord Server</button>
   </a>
   </div>
