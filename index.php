@@ -10,31 +10,36 @@
   <meta name="subject" content="What do we do?">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
+  @import url('https://fonts.googleapis.com/css?family=Turret+Road&display=swap');
    body{
     width: 100%;
+    font-family: 'Turret Road', cursive;
+    background: black;
    }
    .oof{
     top: 0px;
     left: 0px;
     width: 100%;
-    height: 20%;
+    height: 35%;
     position: absolute;
-    background:yellow;
+    background: url("https://cdn.discordapp.com/attachments/546775951401549864/625830211887300608/unknown.png");
     text-align: center;
-    color: red;
+    color: white;
    }
    .heading-picture{
-    background-color: yellow;
+    background: url("https://cdn.discordapp.com/attachments/546775951401549864/625830211887300608/unknown.png");
     top: 14%;
     width: 100%;
     height: 10%;
     left: 0px;
     position: absolute;
     text-align: center;
-    color: red;
+    color: white;
+    padding:10px;
+    margin-bottom: 20px;
     }
     .page-bottom{
-     background: limegreen;
+     background: url("https://cdn.discordapp.com/attachments/546775951401549864/625830211887300608/unknown.png");
      bottom: 0%;
      width: 100%;
      height: 10%;
@@ -50,33 +55,35 @@
       left: 35%;
       position: absolute;
       text-align: center;
-      background: red;
-      color: yellow;
+      color: white;
       border: none;
+      background: rgb(10, 12, 100);
+       border: 3px rgb(10, 12, 100);
+       font-family: 'Turret Road', cursive;
       }
       .discord{
-       background: yellow;
+       background: url("https://cdn.discordapp.com/attachments/546775951401549864/625830211887300608/unknown.png");
        height: 45%;
        width: 100%;
       }
       .discord1{
-       background: red;
-       bottom: 10%;
+       background: black;
+       bottom: 2%;
        left: 0px;
        height: 60%;
        width: 100%;
        position: absolute;
-       background:yellow;
+       background:0, 47, 92;
        text-align: center;
-       color: red;
+       color: rgb(120, 0, 0);
       }
       .buttons{
        width: 100%;
        height: 10%;
-       background-color: blue;
+       background-color: url("https://cdn.discordapp.com/attachments/546775951401549864/625830211887300608/unknown.png");
        position: absolute;
        left: 0%;
-       top: 23%;
+       top: 30%;
       }
       .discord-button{
        top: 15%;
@@ -85,9 +92,10 @@
        left: 40%;
        position: absolute;
        text-align: center;
-       background: red;
-       color: yellow;
-       border: none;
+       background: rgb(10, 12, 100);
+       border: 3px rgb(10, 12, 100);
+       color: white;
+       font-family: 'Turret Road', cursive;
       }
   </style>
   <title>The Challenger 346</title>
