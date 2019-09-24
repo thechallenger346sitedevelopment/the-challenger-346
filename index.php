@@ -34,7 +34,7 @@
       .heading-picture {
         background: url("https://cdn.discordapp.com/attachments/546775951401549864/625830211887300608/unknown.png");
         background-attachment: fixed;
-        top: 14%;
+        top: 16%;
         width: 100%;
         height: 10%;
         left: 0px;
